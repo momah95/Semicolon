@@ -10,3 +10,4 @@ System.out.printf("The circumference is %f%n", 2 * radius * Math.PI);
 System.out.printf("The area is %f%n", radius * radius * Math.PI);
 }
  }
+//okay now
