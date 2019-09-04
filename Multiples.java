@@ -19,3 +19,4 @@ public class Multiples{
 
 }
  }
+// Good code

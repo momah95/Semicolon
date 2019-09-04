@@ -27,3 +27,4 @@ import java.util.Scanner;
 	System.out.printf("cube%n%n   %d%n%d%n%d%n%d%n%d%n%d%n%d%n%d%n%d%n%d%n", a*3,b*3,c*3,d*3,e*3,f*3,g*3,h*3,i*3,j*3);
 }
 	}
+//  feel alright
